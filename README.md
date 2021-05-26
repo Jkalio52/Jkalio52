@@ -9,7 +9,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 - 🤔 I’m looking to/for help with code reviews...
 - 💬 Ask me about HTML5, CSS3, JavaScript, Python (Django).
 - 📫 How to reach me:
-  [jay@pediawebservices.com](https://www.pediawebservices.com/contact-us)
+  [jay@pediawebservices.com](_blank https://www.pediawebservices.com/contact-us)
 - 
 
 <!--
