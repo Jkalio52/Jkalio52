@@ -10,7 +10,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 - 💬 Ask me about HTML5, CSS3, JavaScript, Python (Django).
 - 📫 How to reach me:
   - :e-mail: [jay@pediawebservices.com](mailto:jay@pediawebservices.com) (**CTRL+Click)
-  - :www: https://www.pediadigital.com
+  - :world-wide-web: https://www.pediadigital.com
 
 
 <!--
