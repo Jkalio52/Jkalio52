@@ -1,4 +1,4 @@
-# Hey! :wave:
+# <h1 align="center">Hey! :wave:</h1>
 ![readMe](https://user-images.githubusercontent.com/30821820/119618324-63c69680-bdc8-11eb-88ce-67aa21631297.png)
 
 ### Hello! 👋
