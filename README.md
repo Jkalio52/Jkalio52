@@ -1,11 +1,12 @@
+# Hey #
 ![readMe](https://user-images.githubusercontent.com/30821820/119618324-63c69680-bdc8-11eb-88ce-67aa21631297.png)
 
-### Hello! 👋:wave:
+### Hello! 👋
 
 I am Jay, a self-thought full-stack web developer and digital marketing engineer from Dallas, Texas. I am interested in, write about and develop [open source] web app solutions for and with JavaScript, Python, ReactJS and NodeJS.
 
 - 🔭 I’m currently working on an eCommerce site. And learning Express JS, Redux...
-- 👯 I’m looking to collaborate on Front-end, Back-end projects.
+- 👯 I’m looking to collaborate on open-source projects (front-end, back-end, or documentation).
 - 🤔 I’m looking to/for help with code reviews...
 - 💬 Ask me about HTML5, CSS3, JavaScript, Python (Django).
 - 📫 How to reach me:
