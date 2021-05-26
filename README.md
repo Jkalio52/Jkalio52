@@ -11,7 +11,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 - 📫 How to reach me:
   [jay@pediawebservices.com](https://www.pediawebservices.com/contact-us) (**CTRL+Click)
 
-- Website: https://www.pediawebservices.com
+- Website: https://www.pediadigital.com
 
 
 <!--
