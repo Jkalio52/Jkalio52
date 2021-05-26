@@ -10,7 +10,8 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 - 💬 Ask me about HTML5, CSS3, JavaScript, Python (Django).
 - 📫 How to reach me:
   [jay@pediawebservices.com](https://www.pediawebservices.com/contact-us) (**CTRL+Click)
-- 
+- ![image](https://user-images.githubusercontent.com/30821820/119621472-cc634280-bdcb-11eb-916c-4950fe571e4e.png)
+
 
 <!--
 **Jkalio52/Jkalio52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
