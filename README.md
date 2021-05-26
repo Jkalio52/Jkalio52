@@ -7,7 +7,8 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 - 👯 I’m looking to collaborate on Front-end, Back-end projects.
 - 🤔 I’m looking to/for help with code validation...
 - 💬 Ask me about HTML5, CSS3, JavaScript, Python (Django).
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+-  [eMail Me](jay@pediawebservices.com)
 - 
 
 <!--
