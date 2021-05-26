@@ -1,4 +1,4 @@
-![GitHub Logo](/readMe.png)
+!(/readMe.png)
 ### Hello! 👋
 
 I am Jay, a self-thought full-stack web developer and digital marketing engineer from Dallas, Texas. I am interested in, write about and develop [open source] web app solutions for and with JavaScript, Python, ReactJS and NodeJS.
