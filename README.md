@@ -1,4 +1,4 @@
-# <h1 align="center">Hey, Jay here! :wave:</h1>
+# <h1 align="center">Hey, Jay here! :wave::wave:</h1>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkalio52&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkalio52&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkalio52&langs_count=5&theme=tokyonight)]()-->
