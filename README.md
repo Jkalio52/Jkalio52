@@ -11,8 +11,9 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 - 💬 Ask me about HTML5, CSS3, JavaScript, Python (Django).
 - 📫 How to reach me:
   - :e-mail: [jay@pediawebservices.com](mailto:jay@pediawebservices.com) (**CTRL+Click)
-  - :globe_with_meridians: https://www.pediadigital.com
-
+  - :globe_with_meridians: [Pedia Digital](https://www.pediadigital.com)
+- :heavy_check_mark: I'm Social!
+  - :bird: [@Jay52_TX](https://twitter.com/jay52_tx)
 
 <!--
 **Jkalio52/Jkalio52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
