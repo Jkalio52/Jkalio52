@@ -18,8 +18,8 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 - 📫 How to reach me:
   - :e-mail: [jay@pediawebservices.com](mailto:jay@pediawebservices.com) (**CTRL+Click)
   - :globe_with_meridians: [Pedia Digital](https://www.pediadigital.com)
+  <br/>
 - :heavy_check_mark: I'm Social!
-- <br/>
   - :bird: [I'm on Twitter](https://twitter.com/jay52_tx)
 
 
