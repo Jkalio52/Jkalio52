@@ -1,4 +1,7 @@
-# <h1 align="center">Hey, Jay here! :wave:</h1>
+# <h1 
+      align="center">Hey, Jay here! :wave:
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkalio52&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</h1>
 ![readMe](https://user-images.githubusercontent.com/30821820/119618324-63c69680-bdc8-11eb-88ce-67aa21631297.png)
 
 ### Hello! 👋
@@ -15,7 +18,6 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 - :heavy_check_mark: I'm Social!
   - :bird: [@Jay52_TX](https://twitter.com/jay52_tx)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkalio52&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jkalio52/Jkalio52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
