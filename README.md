@@ -16,8 +16,8 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 - 🤔 I’m looking to/for help with code reviews...
 - 💬 Ask me about HTML5, CSS3, JavaScript, Python (Django).
 - 📫 How to reach me:
-  - :e-mail: [Email](mailto:jay@pediawebservices.com) (**CTRL+Click)
-  - :globe_with_meridians: [Pedia Digital](https://www.pediadigital.com)
+  - :e-mail: [Email Me](mailto:jay@pediawebservices.com) (**CTRL+Click)
+  - :globe_with_meridians: [My Website](https://www.pediadigital.com)
   <br/>
 - :heavy_check_mark: I'm Social!
   - :bird: [I'm on Twitter](https://twitter.com/jay52_tx)
