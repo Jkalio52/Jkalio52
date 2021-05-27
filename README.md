@@ -13,7 +13,8 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - :e-mail: [jay@pediawebservices.com](mailto:jay@pediawebservices.com) (**CTRL+Click)
   - :globe_with_meridians: [Pedia Digital](https://www.pediadigital.com)
 - :heavy_check_mark: I'm Social!
-  - :bird: [@Jay52_TX](https://twitter.com/jay52_tx)
+  - :bird: ![image](https://user-images.githubusercontent.com/30821820/119746199-82bf3a00-be55-11eb-924f-8d88489c7c5c.png)
+ [@Jay52_TX](https://twitter.com/jay52_tx)
 
 <!--
 **Jkalio52/Jkalio52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
