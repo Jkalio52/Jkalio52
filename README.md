@@ -2,8 +2,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkalio52&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkalio52&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkalio52&langs_count=5&theme=tokyonight)]()-->
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
-
 
 
 ![readMe](https://user-images.githubusercontent.com/30821820/119618324-63c69680-bdc8-11eb-88ce-67aa21631297.png)
@@ -21,7 +19,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - :globe_with_meridians: [My Website](https://www.pediadigital.com)
   <br/>
 - :heavy_check_mark: I'm Social!
-  - :bird: <i class="ri-twitter-line"></i> [I'm on Twitter](https://twitter.com/jay52_tx)
+  - :bird: [I'm on Twitter](https://twitter.com/jay52_tx)
 
 
 <!--
