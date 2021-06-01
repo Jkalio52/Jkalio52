@@ -5,7 +5,7 @@
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkalio52&langs_count=5&theme=tokyonight)]()-->
 
 
-![readMe](https://user-images.githubusercontent.com/30821820/119618324-63c69680-bdc8-11eb-88ce-67aa21631297.png)
+![readMe-2](https://user-images.githubusercontent.com/30821820/120253269-8cc5ac00-c24c-11eb-82bf-78d8f37b31d2.png)
 
 ### Hello! 👋
 
