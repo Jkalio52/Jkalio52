@@ -15,7 +15,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 
 - 🔭 I’m currently working on a few projects, beauty shops, health, hospitality sites, and an eCommerce site (front-end).
 - :memo: I’m currently learning And learning Express/Node JS, Redux...
-- 👯 I’m looking to collaborate on open-source projects (front-end, back-end, or documentation).
+- 👯 I’m looking to collaborate on any type projects (front-end, back-end, testing, or documentation).
 - 🤔 I’m looking to/for help with code reviews...
 - 💬 Ask me about HTML5, CSS3, JavaScript, Python (Django).
 - 📫 How to reach me:
