@@ -33,17 +33,17 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - Python
 
 ## Frameworks and Libraries :compass:
-  - Front-end
+  - Front-end :sparkles:
     * React_JS
     * Vue_JS
     * Redux
     * Bootstrap
     * jQuery
-  - Back-end
+  - Back-end :sparkle:
     * Node_JS
     * Express_JS
     * Django
-  - Database
+  - Database :sparkling_heart:
     * SQL
     * SQLite
     * MongoDB
