@@ -22,7 +22,11 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - :bird: [I'm on Twitter](https://twitter.com/jay52_tx)
   - :point_right: [dribbble](https://dribbble.com/)
 
-# Skills / Knowledge
+## Skills / Knowledge
+  - HTML
+  - CSS
+  - JavaScript
+  - NodeJS
 
 
 <!--
