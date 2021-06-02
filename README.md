@@ -7,6 +7,8 @@
 
 ![readMe-2](https://user-images.githubusercontent.com/30821820/120253269-8cc5ac00-c24c-11eb-82bf-78d8f37b31d2.png)
 
+## About Me :cancer:
+
 ### Hello! 👋
 
 I am Jay, a self-thought full-stack web developer and digital marketing engineer from Dallas, Texas. I am interested in, write about and develop [open source] web app solutions for and with JavaScript, Python, ReactJS and NodeJS.
@@ -34,12 +36,16 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
     * React_JS
     * Vue_JS
     * Redux
+    * Bootstrap
+    * jQuery
   - Back-end
     * Node_JS
     * Express_JS
     * Django
   - Database
+    * SQL
     * SQLite
+    * MongoDB
 
 <!--
 **Jkalio52/Jkalio52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
