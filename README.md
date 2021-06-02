@@ -22,6 +22,8 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - :bird: [I'm on Twitter](https://twitter.com/jay52_tx)
   - :point_right: [dribbble](https://dribbble.com/)
 
+# Skills / Knowledge
+
 
 <!--
 **Jkalio52/Jkalio52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
