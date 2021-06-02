@@ -31,7 +31,10 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 
 ## Frameworks and Libraries
   - Front-end
-    * Testing
+    * React_JS
+    * Vue_JS
+    * Redux
+  - Back-end
 
 <!--
 **Jkalio52/Jkalio52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
