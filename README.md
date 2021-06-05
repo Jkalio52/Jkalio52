@@ -33,7 +33,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - Python
 
 ## Frameworks and Libraries :compass:
-  - Front-end :sparkles:
+  - Front-end :sparkles::sparkles:
     * React_JS
     * Vue_JS
     * Redux
