@@ -39,11 +39,11 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
     * Redux
     * Bootstrap
     * jQuery
-  - Back-end :mage_man:
+  - Back-end :mage_man::mage_man:
     * Node_JS
     * Express_JS
     * Django
-  - Database :sparkling_heart:
+  - Database :sparkling_heart::sparkling_heart:
     * SQL
     * SQLite
     * MongoDB
