@@ -25,7 +25,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - :bird: [I'm on Twitter](https://twitter.com/jay52_tx)
   - :point_right: [dribbble](https://dribbble.com/)
 
-![css3](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![<nodejs>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 ## Skills / Knowledge / Technologies :computer:
   - HTML
