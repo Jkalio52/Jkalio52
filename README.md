@@ -9,6 +9,7 @@
 
 ## Table of Contents
 * [About Me](#about)
+* [Technologies](#technologies)
 
 ## About Me :cancer:
 
@@ -35,7 +36,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - :point_right: [dribbble](https://dribbble.com/)
 
 
-## Skills / Knowledge / Technologies :computer:
+## Technologies (Skills / Knowledge) :computer:
   - HTML
   - CSS
   - JavaScript
