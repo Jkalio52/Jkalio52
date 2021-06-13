@@ -42,6 +42,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - JavaScript
   - NodeJS
   - Python
+  - SQL
 
 ## Frameworks and Libraries :compass:
   - Front-end :sparkles::sparkles:
