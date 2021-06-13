@@ -18,7 +18,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 
 ![digitalSig4_black](https://user-images.githubusercontent.com/30821820/121820467-883fc100-cc58-11eb-8bb6-9a1f3179a351.png "Jay's Signature"){
    width:150px;
-   height:100px;
+   height:100px
 }
 
 
