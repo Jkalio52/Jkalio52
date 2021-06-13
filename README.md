@@ -15,9 +15,8 @@
 ### Hello! 👋
 
 I am Jay, a self-thought full-stack web developer and digital marketing engineer from Dallas, Texas. I am interested in, write about and develop [open source] web app solutions for and with JavaScript, Python, ReactJS and NodeJS.
-x-special/nautilus-clipboard
-copy
-file:///home/jay/Downloads/media/digitalSig4_black.png.svg
+
+![digitalSig4_black](https://user-images.githubusercontent.com/30821820/121819985-ce475580-cc55-11eb-9093-0cfb8e2723ad.png)
 
 
 - 🔭 I’m currently working on a few projects, beauty shops, health, hospitality sites, and an eCommerce site (front-end).
