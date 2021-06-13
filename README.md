@@ -22,7 +22,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 
 
 
-### Interests
+### Interests :man_technologist:
 - 🔭 I’m currently working on a few projects, beauty shops, health, hospitality sites, and an eCommerce site (front-end).
 - :memo: I’m currently learning Express/Node JS, Redux...
 - 👯 I’m looking to collaborate on any type projects (front-end, back-end, testing, or documentation).
