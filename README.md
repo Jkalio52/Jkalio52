@@ -12,7 +12,7 @@
 * [Technologies](#technologies)
 * [Frameworks](#frameworks)
 
-## About Me :cancer:
+## About Me
 
 ### Hello! 👋
 
