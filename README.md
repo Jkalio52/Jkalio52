@@ -9,7 +9,7 @@
 
 ## Table of Contents
 * [About Me](#about-me)
-* [Technologies](#technologies)
+* [Technologies](#technologies-(Skills / Knowledge))
 * [Frameworks](#frameworks)
 
 ## About Me
