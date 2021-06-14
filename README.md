@@ -33,8 +33,8 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - :e-mail: [Email Me](mailto:jay@pediawebservices.com)
   - :globe_with_meridians: [Website](https://www.pediadigital.com)
 - :heavy_check_mark: I'm Social!
-  - :bird: [I'm on Twitter](https://twitter.com/jay52_tx)
-  - :point_right: [dribbble](https://dribbble.com/)
+  - :bird: [Twitter](https://twitter.com/jay52_tx)
+  - :point_right: [Dribbble](https://dribbble.com/)
 
 
 ## Technologies
