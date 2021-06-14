@@ -10,7 +10,7 @@
 ## Table of Contents
 * [About Me](#about-me)
 * [Technologies](#technologies)
-* [Frameworks](#frameworks)
+* [Frameworks](#frameworks-and-libraries)
 
 ## About Me
 
@@ -45,7 +45,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - Python
   - SQL
 
-## Frameworks and Libraries :compass:
+## Frameworks and Libraries
   - Front-end :sparkles::sparkles:
     * React_JS
     * Vue_JS
