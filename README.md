@@ -37,7 +37,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - :point_right: [dribbble](https://dribbble.com/)
 
 
-## Technologies (Skills / Knowledge) :computer:
+## Technologies (Skills / Knowledge)
   - HTML
   - CSS
   - JavaScript
