@@ -10,6 +10,7 @@
 ## Table of Contents
 * [About Me](#about)
 * [Technologies](#technologies)
+* [Frameworks](#frameworks)
 
 ## About Me :cancer:
 
