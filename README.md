@@ -8,7 +8,7 @@
 ![readMe-2](https://user-images.githubusercontent.com/30821820/120253269-8cc5ac00-c24c-11eb-82bf-78d8f37b31d2.png)
 
 ## Table of Contents
-* [About Me](#about)
+* [About Me](#about-me)
 * [Technologies](#technologies)
 * [Frameworks](#frameworks)
 
