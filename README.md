@@ -12,9 +12,9 @@
 * [Technologies](#technologies)
 * [Frameworks](#frameworks)
 
-## About Me :cancer:
+## About Me
 
-### Hello! 👋
+### Hello! 👋:cancer:
 
 I am Jay, a self-thought full-stack web developer and digital marketing engineer from Dallas, Texas. I am interested in, write about and develop [open source] web app solutions for and with JavaScript, Python, ReactJS and NodeJS.
 
