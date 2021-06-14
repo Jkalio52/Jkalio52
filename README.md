@@ -9,7 +9,7 @@
 
 ## Table of Contents
 * [About Me](#about-me)
-* [Technologies](#technologies-(Skills / Knowledge))
+* [Technologies](#technologies)
 * [Frameworks](#frameworks)
 
 ## About Me
@@ -37,7 +37,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - :point_right: [dribbble](https://dribbble.com/)
 
 
-## Technologies (Skills / Knowledge)
+## Technologies
   - HTML
   - CSS
   - JavaScript
