@@ -22,7 +22,6 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 ![digitalSig4_black_xs](https://user-images.githubusercontent.com/30821820/121822249-b70f6480-cc63-11eb-9da5-2eb14c4ab6c4.png?thumbnail "Jay's Signature")
 
 
-
 ### Interests :man_technologist:
 - 🔭 I’m currently working on a few projects, beauty shops, health, hospitality sites, and an eCommerce site (front-end).
 - :memo: I’m currently learning Express/Node JS, Redux...
