@@ -64,6 +64,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -75,6 +76,8 @@ Here are some ideas to get you started:
 
 
 
+
 Widget help: 
 https://github.com/anuraghazra/github-readme-stats
 -->
+
