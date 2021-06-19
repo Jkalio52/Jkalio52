@@ -32,6 +32,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - :globe_with_meridians: [Website](https://www.pediadigital.com)
 - :heavy_check_mark: I'm Social!
   - :bird: [Twitter](https://twitter.com/jay52_tx)
+  - :b: [bit](https://bit.dev/)
   - :point_right: [Dribbble](https://dribbble.com/)
 
 
