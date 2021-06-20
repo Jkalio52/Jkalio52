@@ -3,6 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkalio52&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkalio52&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkalio52&langs_count=5&theme=tokyonight)]()-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jkalio52&theme=dark&ring=502EDD&currStreakLabel=37A1DD&sideNums=DD4DB7)](https://git.io/streak-stats)
 
 
 ![readMe-2](https://user-images.githubusercontent.com/30821820/120253269-8cc5ac00-c24c-11eb-82bf-78d8f37b31d2.png)
