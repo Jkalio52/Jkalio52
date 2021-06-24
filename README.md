@@ -1,4 +1,4 @@
-# <h1 align="center">Hey, Jay here!! :raised_hand::wave:</h1>
+# <h1 align="center">Hey, Jay here!! :raised_hand_with_fingers_splayed::wave:</h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jkalio52&theme=dark&ring=502EDD&currStreakLabel=37A1DD&sideNums=DD4DB7)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkalio52&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
