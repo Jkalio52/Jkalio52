@@ -12,6 +12,7 @@
 * [About Me](#about-me)
 * [Technologies](#technologies)
 * [Frameworks](#frameworks-and-libraries)
+* [CMS Platforms](#cms-platforms)
 
 ## About Me
 
@@ -60,7 +61,9 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
     * SQL
     * SQLite
     * MongoDB
-
+## CMS Platforms
+  - Test
+    * test
 
 <!--
 **Jkalio52/Jkalio52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
