@@ -36,6 +36,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - :bird: [Twitter](https://twitter.com/jay52_tx)
   - :b: [bit](https://bit.dev/)
   - :point_right: [Dribbble](https://dribbble.com/)
+  - :seedling: [Showwcase](https://showwcase.com/jkalio52)
 
 
 ## Technologies
