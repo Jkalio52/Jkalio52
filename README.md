@@ -68,6 +68,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - Drupal
   - WooCommerce
   - Wix
+  - Shopify
 
 
 
