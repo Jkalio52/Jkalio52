@@ -63,6 +63,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
     * SQL
     * SQLite
     * MongoDB
+
 ## CMS Platforms
   - WordPress
   - Joomla
