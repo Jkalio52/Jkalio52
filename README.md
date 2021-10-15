@@ -29,7 +29,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
 - :memo: I’m currently learning Express/Node JS, Redux...
 - 👯 I’m looking to collaborate on any type projects (front-end, back-end, testing, or documentation).
 - 🤔 I’m looking to/for help with code reviews...
-- 💬 Ask me about HTML5, CSS3, JavaScript, Python (Django).
+- 💬 Ask me about HTML5, CSS3, JavaScript, Python (Django), SQL.
 - 📫 How to reach me:
   - :e-mail: [Email Me](mailto:jay@pediawebservices.com)
   - :globe_with_meridians: [Website](https://www.pediadigital.com)
