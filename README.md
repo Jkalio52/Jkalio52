@@ -65,12 +65,12 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
     * MongoDB
 
 ## CMS Platforms
-  - WordPress
+  - Shopify
   - Joomla
   - Drupal
   - WooCommerce
+  - WordPress
   - Wix
-  - Shopify
 
 
 
