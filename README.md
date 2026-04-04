@@ -39,7 +39,7 @@ I am Jay, a self-thought full-stack web developer and digital marketing engineer
   - :b: [bit](https://bit.dev/)
   - :point_right: [Dribbble](https://dribbble.com/)
   - :seedling: [Showwcase](https://showwcase.com/jkalio52)
-  - <a href="https://gitlab.com/Jkalio52">
+  - [Test]<a href="https://gitlab.com/Jkalio52">
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 </a>
 
