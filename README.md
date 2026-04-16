@@ -19,7 +19,7 @@
 
 ### Hello! 👋:cancer:
 
-I am Jay, a self-thought full-stack web developer and digital marketing engineer from Dallas, Texas. I am interested in writing about and developing [open source] web app solutions for and with JavaScript, Python, ReactJS and NodeJS.
+I am Jay, a self-taught full-stack web developer and digital marketing engineer from Dallas, Texas. I am interested in writing about and developing [open source] web app solutions for and with JavaScript, Python, ReactJS and NodeJS.
 
 ![digitalSig4_black_xs](https://user-images.githubusercontent.com/30821820/121822249-b70f6480-cc63-11eb-9da5-2eb14c4ab6c4.png?thumbnail "Jay's Signature")
 
