@@ -17,7 +17,7 @@
 
 ## About Me
 
-### Hello! 👋:cancer:
+### Hello! 👋 :cancer:
 
 I am Jay, a self-taught full-stack web developer and digital marketing engineer from Dallas, Texas. I am interested in writing about and developing [open-source] web app solutions for and with JavaScript, Python, ReactJS, and NodeJS.
 
