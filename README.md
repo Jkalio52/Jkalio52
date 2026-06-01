@@ -1,7 +1,6 @@
 # <h1 align="center">Hey, Jay here!! :raised_hand_with_fingers_splayed: :cancer: :wave:</h1>
 
 ## GitHub Stats ##
-## GitHub Stats ##
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jkalio52&theme=dark&ring=502EDD&currStreakLabel=37A1DD&sideNums=DD4DB7)](https://git.io/streak-stats)
 
 <!-- Fetching main stats from your secure Vercel instance -->
