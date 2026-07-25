@@ -48,6 +48,7 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
 - :heavy_check_mark: I'm Social!
   - :bird: [Twitter](https://twitter.com/jay52_tx)
   - :globe_with_meridians: [Bluesky](https://bsky.app/profile/jay52.bsky.social)
+  - :mastodon_social: [Mastodon](https://mastodon.social/@jay52_tx)
   - :b: [bit](https://bit.dev/)
   - :point_right: [Dribbble](https://dribbble.com/)
   - :seedling: [Showwcase](https://showwcase.com/jkalio52)
