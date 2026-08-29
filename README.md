@@ -1,4 +1,4 @@
-# <h1 align="center">Hey, Jay here!! :raised_hand_with_fingers_splayed: :cancer: :wave:</h1>
+<h1 align="center">Hey, Jay here!! :raised_hand_with_fingers_splayed: :cancer: :wave:</h1>
 
 ## GitHub Stats ##
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jkalio52&theme=dark&ring=502EDD&currStreakLabel=37A1DD&sideNums=DD4DB7)](https://git.io/streak-stats)
@@ -54,7 +54,7 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
   - :point_right: [Dribbble](https://dribbble.com/)
   - :seedling: [Showwcase](https://showwcase.com/jkalio52)
   - 🦊 **GitLab:** [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Jkalio52/jkalio52)
-  - 💻 **Codepen** [Codepen](https://codepen.io/Jkalio52)
+  - 💻 **Codepen:** [Codepen](https://codepen.io/Jkalio52)
 
 
 ## Technologies
