@@ -67,6 +67,16 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
 
 
 
+# 🏢 About Ateris Labs
+
+> **Ateris Labs | Crafting Code, Automating Minds.**
+
+Ateris Labs specializes in designing dynamic web solutions, next-gen AI agents, and sharp digital branding. Driven by a passion for scalable tech, we build clean, full-stack code that accelerates modern digital ecosystems.
+
+🔗 **Portfolio:** [myportfolio.pediadigital.com](https://myportfolio.pediadigital.com/)
+
+---
+
 ## 🛠️ Technologies & Frameworks
 
 | Frontend | Backend & Databases | CMS Platforms | DevOps & Tools |
@@ -76,6 +86,7 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
 | 🟨 **JavaScript** | 💚 **Django** | 🧩 **Joomla** | 🐚 **Bash scripts** |
 | 🎨 **TailwindCSS** | 🛢️ **SQL** | 💧 **Drupal** | 🔄 **CI/CD** |
 | 🟦 **Pure CSS** | 🍃 **MongoDB** | 🛒 **WooCommerce** | 🐋 **Docker** |
+
 
 
 
