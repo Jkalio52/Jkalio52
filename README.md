@@ -46,7 +46,7 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
 
 
 ### Interests :man_technologist:
-- 🔭 I’m currently working on a few projects, beauty shops, health, hospitality sites, and an eCommerce site (front-end).
+- 🔭 I’m currently working on a few projects: beauty shops, health, hospitality sites, and an eCommerce site (front-end).
 - :memo: I’m currently learning Express/Node JS, Redux...
 - 👯 I’m looking to collaborate on any type of projects (front-end, back-end, testing, or documentation).
 - 🤔 I’m looking to/for help with code reviews...
@@ -59,7 +59,7 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
   - :globe_with_meridians: [Bluesky](https://bsky.app/profile/jay52.bsky.social)
   - 🦣 [Mastodon](https://mastodon.social/@jay52_tx)
   - 💀 [DEF CON](https://defcon.social/@jay52_tx)
-  - :b: [bit](https://bit.dev/)
+  - :bprojecthttps://bit.dev/)
   - :point_right: [Dribbble](https://dribbble.com/)
   - :seedling: [Showwcase](https://showwcase.com/jkalio52)
   - 🦊 **GitLab:** [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Jkalio52/jkalio52)
@@ -75,7 +75,8 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
 | 🖖 **Vue.js** | 🐍 **Python** | 🛍️ **Shopify** | 🐧 **Linux** |
 | 🟨 **JavaScript** | 💚 **Django** | 🧩 **Joomla** | 🐚 **Bash scripts** |
 | 🎨 **TailwindCSS** | 🛢️ **SQL** | 💧 **Drupal** | 🔄 **CI/CD** |
-| | 🍃 **MongoDB** | 🛒 **WooCommerce** | 🐋 **Docker** |
+| 🟦 **Pure CSS** | 🍃 **MongoDB** | 🛒 **WooCommerce** | 🐋 **Docker** |
+
 
 
 
