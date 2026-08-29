@@ -68,6 +68,7 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
 
 ---
 
+
 ## 🛠️ Technologies & Frameworks
 
 | Frontend | Backend & Databases | CMS Platforms | DevOps & Tools |
@@ -81,13 +82,33 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
 
 ---
 
-# 🏢 About Ateris Labs
+
+## 🏢 About Ateris Labs
 
 > **Ateris Labs | Crafting Code, Automating Minds.**
 
 Ateris Labs specializes in designing dynamic web solutions, next-gen AI agents, and sharp digital branding. Driven by a passion for scalable tech, we build clean, full-stack code that accelerates modern digital ecosystems.
 
 🔗 **Portfolio:** [myportfolio.pediadigital.com](https://myportfolio.pediadigital.com/)
+
+
+---
+
+
+## ⭐ Featured Projects
+
+### 📱 QR Code Generator
+A fast, mobile-first QR code generator built with React, Vite, and Open Props CSS.
+* **Tech Stack:** React, Vite, Open Props CSS
+
+### ⏱️ real-timeDate
+A small React + Vite app that displays the current local date and time in real time.
+* **Tech Stack:** React, Vite, TailwindCSS
+
+### 🔗 PyShort
+A modern, full-stack URL shortener built with React, Django, and MongoDB Atlas. Generate short, memorable links, track analytics, and manage your URLs with ease.
+* **Tech Stack:** React, Django, MongoDB Atlas, TailwindCSS
+
 
 
 
