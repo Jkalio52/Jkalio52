@@ -54,6 +54,7 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
   - :point_right: [Dribbble](https://dribbble.com/)
   - :seedling: [Showwcase](https://showwcase.com/jkalio52)
   - 🦊 **GitLab:** [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Jkalio52/jkalio52)
+  - 💻 **Codepen** [Codepen](https://codepen.io/Jkalio52)
 
 
 ## Technologies
