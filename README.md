@@ -74,8 +74,9 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
 | ⚛️ **React** | 🟢 **NodeJS** | 🌐 **WordPress** | 🔧 **Git** |
 | 🖖 **Vue.js** | 🐍 **Python** | 🛍️ **Shopify** | 🐧 **Linux** |
 | 🟨 **JavaScript** | 💚 **Django** | 🧩 **Joomla** | 🐚 **Bash scripts** |
-| | 🛢️ **SQL** | 💧 **Drupal** | 🔄 **CI/CD** |
+| 🎨 **TailwindCSS** | 🛢️ **SQL** | 💧 **Drupal** | 🔄 **CI/CD** |
 | | 🍃 **MongoDB** | 🛒 **WooCommerce** | 🐋 **Docker** |
+
 
 
 
