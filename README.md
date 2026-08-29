@@ -68,19 +68,12 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
 
 ## 🛠️ Technologies & Frameworks
 
-### 💻 Frontend
-* **React** ⚛️
-* **Vue.js** 🖖
-* **JavaScript** 🟨
+| Frontend | Backend & Databases | CMS Platforms |
+| :--- | :--- | :--- |
+| ⚛️ **React** | 🟢 **NodeJS** | 🌐 **WordPress** |
+| 🖖 **Vue.js** | 💚 **Django** | 🛍️ **Shopify** |
+| 🟨 **JavaScript** | 🍃 **MongoDB** | |
 
-### ⚙️ Backend & Databases
-* **NodeJS** 🟢
-* **Django** 💚
-* **MongoDB** 🍃
-
-### 🛒 CMS Platforms
-* **WordPress** 🌐
-* **Shopify** 🛍️
 
 
 
