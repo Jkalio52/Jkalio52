@@ -68,14 +68,20 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
 
 ## 🛠️ Technologies & Frameworks
 
-### Frontend
-<img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="Vue.js" /> <img src="https://shields.io" alt="JavaScript" />
+### 💻 Frontend
+* **React** ⚛️
+* **Vue.js** 🖖
+* **JavaScript** 🟨
 
-### Backend & Databases
-<img src="https://shields.io" alt="Node.js" /> <img src="https://shields.io" alt="Django" /> <img src="https://shields.io" alt="MongoDB" />
+### ⚙️ Backend & Databases
+* **NodeJS** 🟢
+* **Django** 💚
+* **MongoDB** 🍃
 
-### CMS Platforms
-<img src="https://shields.io" alt="WordPress" /> <img src="https://shields.io" alt="Shopify" />
+### 🛒 CMS Platforms
+* **WordPress** 🌐
+* **Shopify** 🛍️
+
 
 
 
