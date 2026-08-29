@@ -66,37 +66,22 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
   - 💻 **Codepen:** [Codepen](https://codepen.io/Jkalio52)
 
 
-## Technologies
-  - HTML
-  - CSS
-  - JavaScript
-  - NodeJS
-  - Python
-  - SQL
+## 🛠️ Technologies & Frameworks
 
-## Frameworks and Libraries
-  - Front-end :sparkles::sparkles:
-    * React_JS
-    * Vue_JS
-    * Redux
-    * Bootstrap
-    * jQuery
-  - Back-end :mage_man::mage_man:
-    * Node_JS
-    * Express_JS
-    * Django
-  - Database :sparkling_heart::sparkling_heart:
-    * SQL
-    * SQLite
-    * MongoDB
+### Frontend
+![React](https://shields.io)
+![Vue.js](https://shields.io)
+![JavaScript](https://shields.io)
 
-## CMS Platforms
-  - Shopify
-  - Joomla
-  - Drupal
-  - WooCommerce
-  - WordPress
-  - Wix
+### Backend & Databases
+![NodeJS](https://shields.io)
+![Django](https://shields.io)
+![MongoDB](https://shields.io)
+
+### CMS Platforms
+![WordPress](https://shields.io)
+![Shopify](https://shields.io)
+
 
 
 
