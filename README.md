@@ -66,13 +66,17 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
   - 💻 **Codepen:** [Codepen](https://codepen.io/Jkalio52)
 
 
+
 ## 🛠️ Technologies & Frameworks
 
 | Frontend | Backend & Databases | CMS Platforms |
 | :--- | :--- | :--- |
 | ⚛️ **React** | 🟢 **NodeJS** | 🌐 **WordPress** |
 | 🖖 **Vue.js** | 💚 **Django** | 🛍️ **Shopify** |
-| 🟨 **JavaScript** | 🍃 **MongoDB** | |
+| 🟨 **JavaScript** | 🍃 **MongoDB** | 🧩 **Joomla** |
+| | 🛢️ **SQL** | 💧 **Drupal** |
+| | 🐍 **Python** | 🛒 **WooCommerce** |
+
 
 
 
