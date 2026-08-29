@@ -2,9 +2,9 @@
 
 ## GitHub Stats ##
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=jkalio52&theme=dark&ring=502EDD&currStreakLabel=37A1DD&sideNums=DD4DB7" alt="GitHub Streak" height="150"/>
-  <img src="https://github-readme-stats-lime-nine-h6cob2snio.vercel.app/api?username=jkalio52&count_private=true&show_icons=true&theme=tokyonight" alt="Jay's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats-lime-nine-h6cob2snio.vercel.app/api/top-langs/?username=jkalio52&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats" height="150"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=jkalio52&theme=dark&ring=502EDD&currStreakLabel=37A1DD&sideNums=DD4DB7" alt="GitHub Streak" height="250"/>
+  <img src="https://github-readme-stats-lime-nine-h6cob2snio.vercel.app/api?username=jkalio52&count_private=true&show_icons=true&theme=tokyonight" alt="Jay's GitHub stats" height="250"/>
+  <img src="https://github-readme-stats-lime-nine-h6cob2snio.vercel.app/api/top-langs/?username=jkalio52&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats" height="250"/>
 </p>
 
 <!--
