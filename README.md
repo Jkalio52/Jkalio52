@@ -1,15 +1,24 @@
 <h1 align="center">Hey, Jay here!! :raised_hand_with_fingers_splayed: :cancer: :wave:</h1>
 
 ## GitHub Stats ##
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=jkalio52&theme=dark&ring=502EDD&currStreakLabel=37A1DD&sideNums=DD4DB7" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats-lime-nine-h6cob2snio.vercel.app/api?username=jkalio52&count_private=true&show_icons=true&theme=tokyonight" alt="Jay's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats-lime-nine-h6cob2snio.vercel.app/api/top-langs/?username=jkalio52&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats" height="150"/>
+</p>
+
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jkalio52&theme=dark&ring=502EDD&currStreakLabel=37A1DD&sideNums=DD4DB7)](https://git.io/streak-stats)
 
 <!-- Fetching main stats from your secure Vercel instance -->
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats-lime-nine-h6cob2snio.vercel.app/api?username=jkalio52&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Commented out alternative Top Langs widget -->
 <!--[![Top Langs](https://github-readme-stats-lime-nine-h6cob2snio.vercel.app/api/top-langs/?username=jkalio52&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!-- Fetching top languages from your secure Vercel instance -->
+<!--
 [![My GitHub Language Stats](https://github-readme-stats-lime-nine-h6cob2snio.vercel.app/api/top-langs/?username=jkalio52&langs_count=5&theme=tokyonight)]()
 
 <!--
