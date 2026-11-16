@@ -96,7 +96,7 @@ Ateris Labs specializes in designing dynamic web solutions, next-gen AI agents, 
 ---
 
 
-## ⭐ Featured Projects
+## Featured Projects ⭐
 
 ### 📱 QR Code Generator
 A fast, mobile-first QR code generator built with React, Vite, and Open Props CSS.
