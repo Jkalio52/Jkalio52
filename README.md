@@ -35,7 +35,7 @@
 * [Technologies & Frameworks](#technologies-&-frameworks):computer:
 * [Frameworks](#frameworks-and-libraries):books:
 * [CMS Platforms](#cms-platforms):card_index:
-* [featured-projects](#featured-projects)
+* [Featured Projects](#featured-projects)
 
 ## About Me
 
