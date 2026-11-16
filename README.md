@@ -32,7 +32,7 @@
 
 ## Table of Contents
 * [About Me](#about-me):raising_hand:
-* [Technologies & Frameworks](#technologies-frameworks):computer:
+* [Technologies & Frameworks](#technologies-&-frameworks):computer:
 * [Frameworks](#frameworks-and-libraries):books:
 * [CMS Platforms](#cms-platforms):card_index:
 * [featured-projects](#featured-projects)
