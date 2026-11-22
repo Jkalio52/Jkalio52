@@ -33,7 +33,7 @@
 ## Table of Contents
 * [About Me](#about-me):raising_hand:
 * [Technologies & Frameworks](#technologies-&-frameworks) :computer:
-* [Frameworks](#frameworks-and-libraries):books:
+* [About Ateris Labs](#about-ateris-labs):books:
 * [CMS Platforms](#cms-platforms):card_index:
 * [Featured Projects](#featured-projects)
 
