@@ -70,7 +70,7 @@ I am Jay, a self-taught full-stack web developer and digital marketing engineer 
 ---
 
 
-## Technologies & Frameworks 🛠️
+## 🛠️ Technologies & Frameworks
 
 | Frontend | Backend & Databases | CMS Platforms | DevOps & Tools |
 | :--- | :--- | :--- | :--- |
