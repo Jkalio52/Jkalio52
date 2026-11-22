@@ -35,7 +35,7 @@
 * [Technologies & Frameworks](#technologies--frameworks-) :computer:
 * [About Ateris Labs](#about-ateris-labs):books:
 * [CMS Platforms](#cms-platforms):card_index:
-* [Featured Projects](#featured-projects)
+* [Featured Projects](#featured-projects-)
 
 ## About Me
 
